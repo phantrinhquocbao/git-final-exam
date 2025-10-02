@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý ghi chú học tập
+- Cho phép thêm ghi chú hàng ngày.
+- Hỗ trợ tìm kiếm ghi chú theo từ khóa.
+- Có chức năng chỉnh sửa ghi chú.
+- Có chức năng xóa ghi chú.
+- Giao diện đơn giản và dễ sử dụng.
