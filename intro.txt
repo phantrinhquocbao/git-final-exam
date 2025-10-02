@@ -13,4 +13,10 @@ Sở thích:
 - Thể thao
 - Nghe nhạc
 - Ăn uống
+Kế hoạch học tập:
+- Học Git và GitHub thành thạo.
+- Ôn lại kiến thức về Python.
+- Học thêm về SQL và cơ sở dữ liệu.
+- Tham gia các dự án nhóm để rèn kỹ năng teamwork.
+- Tìm hiểu về phát triển web (HTML, CSS, JS).
 
