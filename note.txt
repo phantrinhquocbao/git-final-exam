@@ -1,3 +1,6 @@
 - Git giúp quản lý mã nguồn dễ dàng hơn
 - Học Git giúp hiểu cách làm việc nhóm
 - GitHub hỗ trợ lưu trữ và chia sẻ code
+- Git có nhiều lệnh hữu ích
+- Ban đầu học hơi khó nhưng rất cần thiết
+
